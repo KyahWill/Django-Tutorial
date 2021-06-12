@@ -15,6 +15,7 @@ db.sqlite3
 # Static folder at project root
 /static/
 
+RestDir
 # macOS
 ._*
 .DS_Store
